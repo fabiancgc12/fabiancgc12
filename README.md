@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me 👋
+
+Hi! My name is fabian graterol, I am a software engineer and fullstack developer with a passion for constantly learning new technologies. I specialize in Reactjs for the web and Nestjs for the backend. I have been studying programming since 2015 and recently graduated in 2022 ready for the challenges of development
 
 <!--
 **fabiancgc12/fabiancgc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
