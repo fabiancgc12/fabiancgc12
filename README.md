@@ -2,7 +2,7 @@
 
 Hi! My name is fabian graterol, I am a software engineer and fullstack developer with a passion for constantly learning new technologies. I specialize in Reactjs for the web and Nestjs for the backend. I have been studying programming since 2015 and recently graduated in 2022 ready for the challenges of development
 
-##Points of interest
+## Points of interest
     - Graduated as Software Developer from UCAB univeristy (Universidad Catolica Andres Bello) in Venezuela</li>
     - Currently forming part of the LaunchX initiative as a way to continue learning and acquiring knowledge</li>
 
