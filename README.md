@@ -4,7 +4,6 @@ Hi! My name is fabian graterol, I am a software engineer and fullstack developer
 
 ## Points of interest:
 - Graduated as Software Developer from UCAB university (Universidad Catolica Andres Bello) in Venezuela
-- Currently forming part of the LaunchX initiative as a way to continue learning and acquiring knowledge
 
 ## Skills:
 	
